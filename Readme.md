@@ -1,4 +1,4 @@
-# CryptoRec 
+# CryptoRec
 
 (WIP will post code to master when ready)
 
