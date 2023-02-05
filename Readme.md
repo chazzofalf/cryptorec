@@ -1,5 +1,7 @@
 # CryptoRec 
 
+(WIP will post code to master when ready)
+
 Author: [Charles Montgomery](mailto:charles.montgomery@charter.net) ([Google](mailto:chazzofalf@gmail.com))
 
 Public Repo: [GitHub](https://www.github.com/CryptoRec)
